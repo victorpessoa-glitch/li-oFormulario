@@ -1,0 +1,42 @@
+Body {
+    background-image: url("../fundo.png");
+    margin-top: 200px;
+    margin:center;
+    margin-left: 725px;
+}
+h1, p {
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 30px;
+}
+.form-control {
+    color: white;
+    font-weight: bold;
+    font-family: arial; 
+    padding: 10px;
+}
+
+p{
+    font-size: 15px;
+}
+
+button {
+    margin-top: 8px
+}
+
+.Box {
+    background-color: #1a1a1a;
+    width: 350px;
+    height: 350px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+h1 {
+    margin-left:10px;
+    font-size: 45px;
+
+}
+
